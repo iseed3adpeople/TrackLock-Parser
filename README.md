@@ -11,19 +11,18 @@
 
 ## Результат
 
-Скрипт создаёт три файла с данными тир-листа:
-- `data.csv`
-- `data.xlsx`
-- `data.json`
+CSV:
+![CSV](media/csv.png)
 
-![CSV](csv.png)
+Excel:
+![Excel](media/exel.png)
 
-![Excel](exel.png)
-
-![JSON](json.png)
+JSON:
+![JSON](media/json.png)
 
 ## Как запустить
 
-1. Установите uv: `pip install uv`
-2. Установите зависимости: `uv sync`
-3. Запустите: `uv run main.py`
+1. Клонируйте репозиторий: `git clone https://github.com/iseed3adpeople/TrackLock-Parser.git`
+2. Установите uv: `pip install uv`
+3. Установите зависимости: `uv sync`
+4. Запустите: `uv run main.py`
