@@ -25,7 +25,15 @@ JSON:
 
 ## Как запустить
 
-1. Клонируйте репозиторий: `git clone https://github.com/iseed3adpeople/TrackLock-Parser.git`
-2. Установите uv: `pip install uv`
-3. Установите зависимости: `uv sync`
-4. Запустите: `uv run main.py`
+1. Клонируйте репозиторий:
+
+```git clone https://github.com/iseed3adpeople/TrackLock-Parser.git```
+2. Установите uv:
+
+`pip install uv`
+3. Установите зависимости:
+
+`uv sync`
+4. Запустите:
+
+`uv run main.py`
