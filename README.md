@@ -12,12 +12,15 @@
 ## Результат
 
 CSV:
+
 ![CSV](media/csv.png)
 
 Excel:
+
 ![Excel](media/exel.png)
 
 JSON:
+
 ![JSON](media/json.png)
 
 ## Как запустить
