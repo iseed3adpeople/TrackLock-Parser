@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.json
+*.xlsx
+*.csv
+.pytest_cache/
