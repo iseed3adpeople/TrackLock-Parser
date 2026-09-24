@@ -37,7 +37,14 @@ pip install uv
 ```
 uv sync
 ```
-4. Запустите:
+4. Установите браузер для Playwright (один раз):
+```
+uv run playwright install chromium
+```
+5. Запустите:
 ```
 uv run main.py
 ```
+
+Результат сохраняется в `data.csv`, `data.xlsx` и `data.json` рядом со
+скриптом.
